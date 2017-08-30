@@ -9,6 +9,7 @@ var express = require('express'),
 // Set Express port variable 
 app.set("port", process.env.PORT || DEFAULT_PORT);
 
+// test
 // static files for Express middleware stack
 app.use(express.static(DIST_DIR)); // Angular4
 
