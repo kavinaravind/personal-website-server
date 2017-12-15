@@ -2,7 +2,7 @@
     "mapKey" : "AIzaSyALoB65r4Dm6PuLPb77YhVOtQLadltuI7s",
     "apiKey" : "AIzaSyACl0sQp_i_uwJphfAvJF9hpVkB9EVNB6A",
     "authDomain" : "personal-website-c872d.firebaseapp.com",
-    "this.databaseURL" : "https://personal-website-c872d.firebaseio.com",
+    "databaseURL" : "https://personal-website-c872d.firebaseio.com",
     "projectId" : "personal-website-c872d",
     "storageBucket" : "personal-website-c872d.appspot.com",
     "messagingSenderId" : "112441226786"

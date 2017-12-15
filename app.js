@@ -5,7 +5,7 @@ var express = require('express'),
 
     DIST_DIR =  path.join(__dirname, "../personal-website-app/dist"),
     HTML_FILE = path.join(__dirname, "../personal-website-app/dist/index.html"),
-    DEFAULT_PORT = 3000;
+    DEFAULT_PORT = 3005;
 
 // Set Express port variable 
 app.set("port", process.env.PORT || DEFAULT_PORT);
